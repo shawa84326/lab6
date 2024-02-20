@@ -41,9 +41,21 @@ This repository contains an AI Assistant designed to assist users with various t
 2. Set up a virtual environment (optional but recommended):
 
     ```bash
-    
-python -m venv venv
-source venv/bin/activate
+    python -m venv venv
+    ```
+
+     ```bash
+    source venv/bin/activate
+    ```
+Example of activiting vortual environment in local machine 
+
+ankitshaw --- username on local pc
+lab6------ folder name in which file is created
+
+source /Users/ankitshaw/lab6/venv/bin/activate  (For Macos local machine, activating virtual environment)
+
+/Users/ankitshaw/lab6/venv/Scripts/activate (For windows)
+
 pip install -r requirements.txt
 cp .env.sample .env
 Change the .env file to match your environment
