@@ -57,8 +57,14 @@ source /Users/ankitshaw/lab6/venv/bin/activate  (For Macos local machine, activa
 /Users/ankitshaw/lab6/venv/Scripts/activate (For windows)
 
 pip install -r requirements.txt
+
+
 cp .env.sample .env
+
+
 Change the .env file to match your environment
+
+
 streamlit run app-2.py
     ```
 
