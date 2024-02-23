@@ -77,7 +77,7 @@ streamlit run app-2.py
 4. Run the application:
 
     ```bash
-    python app-2.py
+    streamlit run app-2.py
     ```
 
 5. Access the AI Assistant through a web browser at `http://127.0.0.1:5000/`.
