@@ -4,25 +4,6 @@ This repository contains an AI Assistant designed to assist users with various t
 
 ## Features and Use Cases
 
-### Extract Information from a Piece of Text
-
-#### Extract Date, Time, Item, Price from a PDF Receipt
-- Utilize the AI Assistant to extract structured information, such as date, time, items, and prices, from a PDF receipt.
-- The assistant employs natural language processing techniques to understand and extract relevant details.
-
-#### Extract Name, Address, Phone Number from a Piece of Text and Insert into Postgres
-- Leverage the assistant to extract specific information, such as names, addresses, and phone numbers, from unstructured text.
-- The extracted data can be seamlessly inserted into a PostgreSQL database for further analysis or storage.
-
-### AI Resume Feedback Bot
-
-#### Upload Resume and Receive Feedback
-- Users can upload their resumes, and the AI Assistant will provide constructive feedback on the content, formatting, and overall quality.
-- The feedback can assist users in improving their resumes to increase their chances in job applications.
-
-#### Upload Cover Letter and Receive Feedback
-- Similar to the resume feedback feature, users can upload cover letters and receive feedback on structure, language, and effectiveness.
-- The AI Assistant aims to enhance the quality of cover letters for job applications.
 
 ### AI Taylor Swift Song Generator
 
