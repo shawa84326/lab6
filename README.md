@@ -46,7 +46,7 @@ cp .env.sample .env
 Change the .env file to match your environment
 
 
-streamlit run app-2.py
+streamlit run app-2-2.py
     ```
 
 3. Install dependencies:
@@ -55,10 +55,10 @@ streamlit run app-2.py
     pip install -r requirements.txt
     ```
 
-4. Run the application:
+4. Run the application: 
 
     ```bash
-    streamlit run app-2.py
+    streamlit run app-2-2.py
     ```
 
 5. Access the AI Assistant through a web browser at `http://127.0.0.1:5000/`.
